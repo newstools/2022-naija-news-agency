@@ -1,0 +1,100 @@
+ Source: ANP KIPPA FERDY DAMMAN Lil Kleine feels the consequences of the alleged abuse of his girlfriend Jaimie Vaes.  The rapper is being canceled from all sides. After record labels Top Notch and Sony, limoncello brand Fiorito and a party café – which showed off his face – already banned the artist, his management now seems done with it.  The profile of Lil Kleine can no longer be found on the Namam website, as the management agency is called. If you visit the management agency’s page, you will see the necessary well-known names from the Dutch rap world.  Until recently, those names also included the name of Lil Kleine.  But anyone who visits the website now cannot find it again.  Typing in Lil Kleine yields no results. A collaboration with Jorik Scholten, as the rapper is really called, seems to have been discontinued.  Against it AD A spokesperson could not confirm that yet.  “I don’t have any answers at this point.” If Namam does indeed put Lil Kleine in the garbage, the management office will not be the first.  On Sunday, record label Sony Music announced that it would end the collaboration with the artist.  Label Top Notch announced last week that it would no longer promote Lil Kleine’s music.  Last month, that label released another album by the rapper. Radio station FunX is no longer playing music from Lil Kleine for the time being and Spotify removed all its songs from the playlists compiled by the music service.  Drink brand Fiorito, Kingsland Festival and his ‘own’ Amsterdam party café ‘t Lammetje want nothing more to do with the artist for the time being.  Madame Tussauds removed his statue from the museum. The call to boycott the artist – which many people supported by the way – therefore seems to be being carried out by many parties.  In the meantime, the question is increasingly becoming who still wants to collaborate with Lil Kleine, instead of who does not. So that he can finally really be vomited out by everyone.  Record label, radio stations, sponsors, get your hands off this ‘man’.  Jaimie, I so hope you and Lío get help.  You deserve so much more <img src="https://i0.wp.com/s.w.org/images/core/emoji/13.1.0/72x72/2764.png?w=1080&#038;ssl=1" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" data-recalc-dims="1"> #Lil Kleine pic.twitter.com/V3UUiWrMjU — Saskia (@saskiamsterdam) February 13, 2022 The “man” who pulls the mother of his child out of the car by her hair and clamps her head in the door is currently in the Top 50 with 4 songs @SpotifyNL… Time for a boycott?  And not just on Spotify, just everywhere. #Lil Kleine — Evert van de Grift (@EvdGrift) February 13, 2022 A week and a half ago Jorik Scholten was arrested on suspicion of assault.  He allegedly assaulted his fiancée Jaimie Vaes by clamping her head between a car door.  The artist has since been released.  The investigation into the assault continues. The news came two days after he was sentenced by a judge to 120 hours of community service.  He was sentenced for kicking a man in a nightclub. Tino Martin finished with Lil Kleine: ‘Can’t control himself’   Seen a mistake?  Mail us.  We are grateful to you.  Lil Kleine canceled from all sides: cooperation seems to have stopped again window.gdprAppliesGlobally=true;
+(function(){function n(){if(!window.frames.__cmpLocator){if(document.body&&document.body.firstChild){var e=document.body;var t=document.createElement("iframe");t.style.display="none";t.name="__cmpLocator";t.title="cmpLocator";e.insertBefore(t,e.firstChild)}else{setTimeout(n,5)}}}function e(e,t,n){if(typeof n!=="function"){return}
+if(!window.__cmpBuffer){window.__cmpBuffer=[]}if(e==="ping"){n({gdprAppliesGlobally:window.gdprAppliesGlobally,cmpLoaded:false},true)}else{window.__cmpBuffer.push({command:e,parameter:t,callback:n})}}e.stub=true;function t(r){if(!window.__cmp||window.__cmp.stub!==true){return}if(!r.data){return}var a=typeof r.data==="string";var e;try{e=a?JSON.parse(r.data):r.data}catch
+n.parentNode.insertBefore(t,n)})("11ef8ac9-6270-4d5e-8b99-8d6a5bd60059");console.log('Didomi cookiewall'); window.didomiOnReady = window.didomiOnReady || [];
+window.didomiOnReady.push(function (Didomi) {
+    window.tc_vars = { // Add Didomi variables
+      didomiGDPRApplies: window.didomiState.didomiGDPRApplies,
+      didomiIABConsent: window.didomiState.didomiIABConsent,
+      didomiVendorsConsent: window.didomiState.didomiVendorsConsent,
+      didomiVendorsConsentUnknown: window.didomiState.didomiVendorsConsentUnknown,
+      didomiVendorsConsentDenied: window.didomiState.didomiVendorsConsentDenied,
+      didomiPurposesConsent: window.didomiState.didomiPurposesConsent,
+      didomiPurposesConsentUnknown: window.didomiState.didomiPurposesConsentUnknown,
+      didomiPurposesConsentDenied: window.didomiState.didomiPurposesConsentDenied,
+      didomiExperimentId: window.didomiState.didomiExperimentId,
+      didomiExperimentUserGroup: window.didomiState.didomiExperimentUserGroup,
+    };
+    if(tc_vars.didomiPurposesConsent != ”){
+        console.log( ‘cookiewall okay’);
+        consentLevel = 3;
+        loadAllScripts();
+      }
+}); window.didomiEventListeners = window.didomiEventListeners || [];
+  window.didomiEventListeners.push({
+    event: ‘notice.clickagree’,
+    listener: function () {
+      console.log(‘clicked agree’);
+      consentLevel =3;
+      loadAllScripts();
+      return false;
+    }
+  });
+  window.didomiEventListeners.push({
+    event: ‘preferences.clickagreetoall’,
+    listener: function () {
+        console.log(‘clicked agree’);
+        consentLevel =3;
+        loadAllScripts();
+        return false;
+    }
+  });
+  window.didomiEventListeners.push({
+    event: ‘preferences.clicksavechoices’,
+    listener: function () {
+        console.log(‘clicked agree’);
+        consentLevel = 3;
+        loadAllScripts();
+        return false;
+    }
+  }); function loadAllScripts(){
+    console.log(‘start loading all scripts 2.19’);
+    console.log(tc_vars.didomiPurposesConsentDenied); var deniedConsent = tc_vars.didomiPurposesConsentDenied;
+    if(deniedConsent.indexOf(‘cookies’) == -1){ //SETTING VARIABLES
+      var wpk_tags = dataLayer[0].Tags;
+      if (wpk_tags != undefined) {
+        var wpk_tags_array = wpk_tags.split(‘,’);
+      }else{
+        var wpk_tags_array = [];
+      } var sales_keywords = dataLayer[0].sales_keywords;
+        if(sales_keywords == undefined){
+           sales_keywords=””;
+      }else{
+        sales_keywords = sales_keywords.replace(/_/g, ”);
+        sales_keywords = sales_keywords.replace(/&/g, ‘_’);
+        sales_keywords = sales_keywords.replace(/&/g, ‘_’);
+      } if (typeof dataLayer[0].Site !== ‘undefined’) {
+        var site_name = dataLayer[0].Site.toLowerCase();
+      }else{
+        var site_name=””;
+      } site_name = site_name.split(“.”); //SETTING VARIABLES var script = document.createElement(“script”);
+        script.src = “https://shared.mediahuis.be/cxense/cxense.metro.min.js”;
+    script.type = “didomi/javascript”;
+    script.setAttribute(‘data-vendor’,’iab:412′); console.log(‘ads: ‘+deniedConsent.indexOf(‘create_ads_profile’));
+    console.log(‘content: ‘+deniedConsent.indexOf(‘select_personalized_content’)); if(deniedConsent.indexOf(‘create_ads_profile’)  0) {
+        x_fb_post[0].className = “fb-post”;
+      } var x_fb_video = document.getElementsByClassName(“fb-video-no-consent”);
+      var i;
+      while(x_fb_video.length > 0) {
+        x_fb_video[0].className = “fb-video”;
+      } var x_twitter = document.getElementsByClassName(“twitter-tweet-no-consent”);
+      while(x_twitter.length > 0) {
+        x_twitter[0].className = “twitter-tweet”;
+      } var xi = document.getElementsByClassName(“instagram-media-no-consent”);
+        while(xi.length > 0) {
+          xi[0].className = “instagram-media”;
+        } var script = document.createElement(“script”);
+      script.src = “https://platform.twitter.com/widgets.js”;
+      document.head.appendChild(script); var script = document.createElement(“script”);
+      script.src = “https://www.instagram.com/embed.js”;
+      document.head.appendChild(script); var script = document.createElement(“script”);
+      script.innerHTML = “window.instgrm.Embeds.process();”;
+   document.head.appendChild(script); var script = document.createElement(“script”);
+      script.src = “https://connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v8.0″; var facebookDiv = document.createElement(‘script’);
+                facebookDiv.innerHTML =`window.fbAsyncInit = function() {FB.init({ xfbml      : true, version    : ‘v5.0’ });}; `;
+                document.head.appendChild(facebookDiv); var my_awesome_script = document.createElement(‘script’);
+                    my_awesome_script.setAttribute(‘src’,’https://connect.facebook.net/en_US/sdk.js’);
+                my_awesome_script.async=”true”;
+                my_awesome_script.defer=”true”;
+          document.head.appendChild(my_awesome_script); } if (deniedConsent.indexOf(‘measure_content_performance’) Lil Kleine canceled from all sides: cooperation seems to have stopped again
+ Source link  Lil Kleine canceled from all sides: cooperation seems to have stopped again The post Lil Kleine canceled from all sides: cooperation seems to have stopped again appeared first on Netherlands News Live. The profile of Lil Kleine can no longer be found on the website of his management. Namam, as the agency is called, seems to be giving the signal that the collaboration with the rapper has been discontinued. However, a spokesperson tells this site that he can give ‘no answers yet’.… In "Entertainment" UpdateRapper Lil Kleine has been discredited again. Images circulate on social media in which it seems that he pulls his girlfriend Jaimie Vaes out of the car by her hair and clamps her head between the car door. Although the management of Lil Kleine and Jaimie Vaes says they will… In "Entertainment" UpdateRapper Lil Kleine has been discredited again. Images circulate on social media in which it seems that he is pulling his girlfriend Jaimie Vaes out of the car by her hair and clamping her head between the car door. Although the management of Lil Kleine and Jaimie Vaes says they… In "Entertainment" Receive top breaking news, events, ideas, and more!
