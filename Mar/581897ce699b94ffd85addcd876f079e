@@ -1,0 +1,100 @@
+ AP During the Oscars ceremony, actor Chris Rock inflicted the ire of colleague Will Smith.  After a joke about his wife, Will was so angry that he walked on stage and punched Chris. Last night, the prestigious film awards were presented for the 94th time.  As always, the evening at the Dolby Theater in Hollywood will be accompanied by beautiful dresses on the red carpet and a huge ceremony.  Chris’ hand came during the evening comedy, in which he does not spare his colleagues. However, with a joke about Jada Pinkett-Smith, Will’s wife, he crossed the line for some people.  “Jada, I can’t wait for GI Jane two,” Rock says.  In the 1998 action film, actress Demi Moore plays the lead role.  Demi milled her hair for the part. Jada suffers from alopecia, a condition that causes a person to become partially or completely bald.  A video shows her rolling her eyes directly at the joke.  Will stands up for his wife and calmly walks onto the stage to give Chris a big poffer. Will then quietly walks back to his place, after which an awkward moment ensues.  Chris still tries to get by with “I was just kidding”, which only makes Will angrier.  „Keep my wife’s name out of you fucking mouth.”  Those present in the room did not seem well aware of the incident.  A journalist from The Hollywood Reporter who was present in the room said on Twitter that Jada was in tears after the incident.  During the first commercial break that followed, Denzel Washington is said to have come to him and Jada to comfort them. Small consolation for Will: he did receive a prize.  Will was awarded the Best Actor award for his role in the film King Richard, about the careers of Venus and Serena Williams.  He then gives an emotional speech. Here’s Will Smith’s tearful acceptance speech at the #Oscars† https://t.co/ulvT7fsB57 pic.twitter.com/Uq2krBbBld — Variety (@Variety) March 28, 2022 Other big winners include CODA (Best Picture, Best Adapted Screenplay, Best Supporting Actor), Encanto (Best Animated Film), The Power of the Dog (Best Director) and Belfast (Best Original Screenplay).  Dune received the award for Best Visual Effects and Best Music. West Side Story Movie Review: Is an Oscar Winner’s Remake Right?   Seen a mistake?  Mail us.  We are grateful to you.  Furious Will Smith punches Chris Rock after prank at Oscars window.gdprAppliesGlobally=true;
+(function(){function n(){if(!window.frames.__cmpLocator){if(document.body&&document.body.firstChild){var e=document.body;var t=document.createElement("iframe");t.style.display="none";t.name="__cmpLocator";t.title="cmpLocator";e.insertBefore(t,e.firstChild)}else{setTimeout(n,5)}}}function e(e,t,n){if(typeof n!=="function"){return}
+if(!window.__cmpBuffer){window.__cmpBuffer=[]}if(e==="ping"){n({gdprAppliesGlobally:window.gdprAppliesGlobally,cmpLoaded:false},true)}else{window.__cmpBuffer.push({command:e,parameter:t,callback:n})}}e.stub=true;function t(r){if(!window.__cmp||window.__cmp.stub!==true){return}if(!r.data){return}var a=typeof r.data==="string";var e;try{e=a?JSON.parse(r.data):r.data}catch
+n.parentNode.insertBefore(t,n)})("11ef8ac9-6270-4d5e-8b99-8d6a5bd60059");console.log('Didomi cookiewall'); window.didomiOnReady = window.didomiOnReady || [];
+window.didomiOnReady.push(function (Didomi) {
+    window.tc_vars = { // Add Didomi variables
+      didomiGDPRApplies: window.didomiState.didomiGDPRApplies,
+      didomiIABConsent: window.didomiState.didomiIABConsent,
+      didomiVendorsConsent: window.didomiState.didomiVendorsConsent,
+      didomiVendorsConsentUnknown: window.didomiState.didomiVendorsConsentUnknown,
+      didomiVendorsConsentDenied: window.didomiState.didomiVendorsConsentDenied,
+      didomiPurposesConsent: window.didomiState.didomiPurposesConsent,
+      didomiPurposesConsentUnknown: window.didomiState.didomiPurposesConsentUnknown,
+      didomiPurposesConsentDenied: window.didomiState.didomiPurposesConsentDenied,
+      didomiExperimentId: window.didomiState.didomiExperimentId,
+      didomiExperimentUserGroup: window.didomiState.didomiExperimentUserGroup,
+    };
+    if(tc_vars.didomiPurposesConsent != ”){
+        console.log( ‘cookiewall okay’);
+        consentLevel = 3;
+        loadAllScripts();
+      }
+}); window.didomiEventListeners = window.didomiEventListeners || [];
+  window.didomiEventListeners.push({
+    event: ‘notice.clickagree’,
+    listener: function () {
+      console.log(‘clicked agree’);
+      consentLevel =3;
+      loadAllScripts();
+      return false;
+    }
+  });
+  window.didomiEventListeners.push({
+    event: ‘preferences.clickagreetoall’,
+    listener: function () {
+        console.log(‘clicked agree’);
+        consentLevel =3;
+        loadAllScripts();
+        return false;
+    }
+  });
+  window.didomiEventListeners.push({
+    event: ‘preferences.clicksavechoices’,
+    listener: function () {
+        console.log(‘clicked agree’);
+        consentLevel = 3;
+        loadAllScripts();
+        return false;
+    }
+  }); function loadAllScripts(){
+    console.log(‘start loading all scripts 2.19’);
+    console.log(tc_vars.didomiPurposesConsentDenied); var deniedConsent = tc_vars.didomiPurposesConsentDenied;
+    if(deniedConsent.indexOf(‘cookies’) == -1){ //SETTING VARIABLES
+      var wpk_tags = dataLayer[0].Tags;
+      if (wpk_tags != undefined) {
+        var wpk_tags_array = wpk_tags.split(‘,’);
+      }else{
+        var wpk_tags_array = [];
+      } var sales_keywords = dataLayer[0].sales_keywords;
+        if(sales_keywords == undefined){
+           sales_keywords=””;
+      }else{
+        sales_keywords = sales_keywords.replace(/_/g, ”);
+        sales_keywords = sales_keywords.replace(/&/g, ‘_’);
+        sales_keywords = sales_keywords.replace(/&/g, ‘_’);
+      } if (typeof dataLayer[0].Site !== ‘undefined’) {
+        var site_name = dataLayer[0].Site.toLowerCase();
+      }else{
+        var site_name=””;
+      } site_name = site_name.split(“.”); //SETTING VARIABLES var script = document.createElement(“script”);
+        script.src = “https://shared.mediahuis.be/cxense/cxense.metro.min.js”;
+    script.type = “didomi/javascript”;
+    script.setAttribute(‘data-vendor’,’iab:412′); console.log(‘ads: ‘+deniedConsent.indexOf(‘create_ads_profile’));
+    console.log(‘content: ‘+deniedConsent.indexOf(‘select_personalized_content’)); if(deniedConsent.indexOf(‘create_ads_profile’)  0) {
+        x_fb_post[0].className = “fb-post”;
+      } var x_fb_video = document.getElementsByClassName(“fb-video-no-consent”);
+      var i;
+      while(x_fb_video.length > 0) {
+        x_fb_video[0].className = “fb-video”;
+      } var x_twitter = document.getElementsByClassName(“twitter-tweet-no-consent”);
+      while(x_twitter.length > 0) {
+        x_twitter[0].className = “twitter-tweet”;
+      } var xi = document.getElementsByClassName(“instagram-media-no-consent”);
+        while(xi.length > 0) {
+          xi[0].className = “instagram-media”;
+        } var script = document.createElement(“script”);
+      script.src = “https://platform.twitter.com/widgets.js”;
+      document.head.appendChild(script); var script = document.createElement(“script”);
+      script.src = “https://www.instagram.com/embed.js”;
+      document.head.appendChild(script); var script = document.createElement(“script”);
+      script.innerHTML = “window.instgrm.Embeds.process();”;
+   document.head.appendChild(script); var script = document.createElement(“script”);
+      script.src = “https://connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v8.0″; var facebookDiv = document.createElement(‘script’);
+                facebookDiv.innerHTML =`window.fbAsyncInit = function() {FB.init({ xfbml      : true, version    : ‘v5.0’ });}; `;
+                document.head.appendChild(facebookDiv); var my_awesome_script = document.createElement(‘script’);
+                    my_awesome_script.setAttribute(‘src’,’https://connect.facebook.net/en_US/sdk.js’);
+                my_awesome_script.async=”true”;
+                my_awesome_script.defer=”true”;
+          document.head.appendChild(my_awesome_script); } if (deniedConsent.indexOf(‘measure_content_performance’) Furious Will Smith punches Chris Rock after prank at Oscars
+ Source link  Furious Will Smith punches Chris Rock after prank at Oscars The post Furious Will Smith punches Chris Rock after prank at Oscars appeared first on Netherlands News Live. Receive top breaking news, events, ideas, and more!
